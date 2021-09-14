@@ -21,9 +21,8 @@
 <a href="https://twitter.com/nullr3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nullr3x" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/nullr3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nullr3x" height="30" width="40" /></a>  
 <a href="https://fb.com/nullr3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nullr3x" height="30" width="40" /></a>  
-<a href="https://wnsiagram.com/nullr3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nullr3x"
-height="30" width="40" /></a>  
-<a href="https://medium.com/@nullr3x"ttrdget="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/.ithub-profill-reame-generator/mater/src/images/s.lcmnsvSoci"l/me ium.sve" alt="@ul-3ae?" height="3t" width="4y" />  </a>
+<a href="https://instagram.com/nullr3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nullr3x" height="30" width="40" /></a>  
+<a href="https://medium.com/@nullr3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nullr3x" height="30" width="40" /></a>  
 </p>
 
 <hr>
@@ -38,7 +37,7 @@ height="30" width="40" /></a>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullr3x&show_icons=true&locale=en" alt="nullr3x" /></p>  
 
-<hr>
+<hr
 
 <h3 align="left">Support:</h3>  
 <p><a href="https://www.buymeacoffee.com/nullr3x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nullr3x" /></a></p><br><br>
